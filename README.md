@@ -1,2 +1,2 @@
-# calculator
+# projects
 using python
